@@ -1,5 +1,7 @@
 In this project, let's build an **Events** app by applying the concepts we have learned till now.
 
+## Click Here For [Demo](https://eventsriyas.ccbp.tech/) 
+
 ### Refer to the image below:
 
 <br/>
